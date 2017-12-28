@@ -1,0 +1,2 @@
+*When repository is initialized, empty git structure is created in order to commit files to git.
+* Staging area is a temporary area before commit. It offers to review and group files as you wish, before commiting to git.
