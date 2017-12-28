@@ -1,0 +1,7 @@
+- Watching differences is makes easier to find bugs, as I clearly see where additions were made and how they differ.
+- I can check my improvement and previous thought process with file history.
+- Cons for manual commit : might forget. Pros: logical saving times, appropriate amount of savefiles.
+- Saving multiple files in one commint saves time as the changes are probably related
+- "git log" to see the history of commits. Then "git diff ID0 ID+1" to see the changes in the commit.
+- I would be more confident to make changes if you can easily revert back.
+- I can use git for all projects and their development.
