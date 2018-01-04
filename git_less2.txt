@@ -1,2 +1,12 @@
-*When repository is initialized, empty git structure is created in order to commit files to git.
-* Staging area is a temporary area before commit. It offers to review and group files as you wish, before commiting to git.
+-> When repository is initialized, empty git structure is created in order to commit files to git.
+
+-> Staging area is a temporary area before commit. It offers to review and group files as you wish, before commiting to git.
+
+-> Branches would be helpful when adding experimental features or different versions from the main one. Master branch is working, all others are on working mode.
+
+-> Diagrams help to navigate in the git much easier and not get lost or lose some commits.
+
+-> Merging branches combines new lines with deleted ones in any of commits. It makes a branch merge to another.
+
+-> Branch label is deleted after merge, but the commits remain.
+ 
