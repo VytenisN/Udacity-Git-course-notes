@@ -1,2 +1,9 @@
-When would you want to use a remote repository rather than keeping all your work local?
+-> It makes sense to keep a backup of my code in a cloud
 
+-> You run "fork" when you want to copy a project in GitHub, "clone" when You clote to local repository.
+
+-> In order to share unfinished code, you should create new branch push it, receive feedback and merge it to master using pull request
+
+-> Pull request is asking the collaborator to pull modified branch into master branch
+
+-> It looks easier to collaborate on GitHub, because it is easy to see what the other person changed, fix mistakes and add code to the project. 
